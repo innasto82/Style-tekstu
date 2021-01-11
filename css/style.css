@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(255, 246, 71);
+}
+
+h1 {
+    background: yellowgreen;
+    color: darkred;
+    text-align: center;
+    font-size: 3em;
+}
+
+h3 {
+    background: coral;
+    color:green;
+    text-align: center;
+    font-size: 2em;
+}
+
+p {
+    background-color: rgb(228, 187, 196);
+    opacity: 0.5;
+    color:darkgreen;
+}
+
+h1 + h3 {
+    color: brown;
+}
